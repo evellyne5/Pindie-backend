@@ -2,4 +2,4 @@
 
 Ссылка на домен фронтенда: https://pindiefrontyandex.nomoredomainswork.ru/
 
-IP-адрес: ssh student@158.160.171.188 -i ./student_key
+IP-адрес: ssh student@158.160.171.188 -i ./student_key, https://pindieyandex.nomoredomainswork.ru/
